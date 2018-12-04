@@ -2,7 +2,7 @@ import org.hamcrest.MatcherAssert.assertThat
 import org.hamcrest.core.Is.`is`
 import org.junit.Test
 
-class SampleUnitTest {
+class Day1Test {
 
     @Test
     fun sampleTest() {
